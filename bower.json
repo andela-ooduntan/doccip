@@ -1,0 +1,19 @@
+{
+  "name": "dataKip",
+  "version": "0.0.0",
+  "homepage": "https://github.com/andela-ooduntan/dataKip",
+  "authors": [
+    "Oduntan Oluwatobiloba Stephen <stephen.oduntan@andela.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.97.6"
+  }
+}

@@ -1,0 +1,32 @@
+.info-container{
+  height: 567px;
+  width: 100%;
+  background-image: url('../images/descriptive-image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.description-text{
+  color: #ffffff;
+  margin: auto;
+  float: left;
+  margin-top: 14%;
+  margin-left: 11%;
+}
+
+.main-text{
+	font-size: 34.53px;
+  width: 99%;
+  font-weight: 300;
+}
+
+.supporting-text{
+	margin-top: 13px;
+	font-weight: 300;
+	width: 64%;
+}
+
+.form-container {
+  float: left;
+  color: #ffffff;
+}
